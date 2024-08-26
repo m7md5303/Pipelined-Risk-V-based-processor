@@ -1,0 +1,134 @@
+{D:/Digital Electronics/Pipelined RISK-V/Design Folder/AdderE.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/Pipelined RISK-V/Design Folder/AdderE.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module AdderE
+
+Top level modules:
+	AdderE
+
+} {} {}} {D:/Digital Electronics/Pipelined RISK-V/Design Folder/signextD.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/Pipelined RISK-V/Design Folder/signextD.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module signextD
+
+Top level modules:
+	signextD
+
+} {} {}} {D:/Digital Electronics/Pipelined RISK-V/Design Folder/AdderF.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/Pipelined RISK-V/Design Folder/AdderF.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module pc_adder
+
+Top level modules:
+	pc_adder
+
+} {} {}} {D:/Digital Electronics/Pipelined RISK-V/Design Folder/RegisterfileD.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/Pipelined RISK-V/Design Folder/RegisterfileD.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module RegisterfileD
+
+Top level modules:
+	RegisterfileD
+
+} {} {}} {D:/Digital Electronics/Pipelined RISK-V/Design Folder/Fetch.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/Pipelined RISK-V/Design Folder/Fetch.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module fetch_cycle
+
+Top level modules:
+	fetch_cycle
+
+} {} {}} {D:/Digital Electronics/Pipelined RISK-V/Design Folder/Execute.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/Pipelined RISK-V/Design Folder/Execute.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Execute
+
+Top level modules:
+	Execute
+
+} {} {}} {D:/Digital Electronics/Pipelined RISK-V/Design Folder/instmemF.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/Pipelined RISK-V/Design Folder/instmemF.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module instmem
+
+Top level modules:
+	instmem
+
+} {} {}} {D:/Digital Electronics/Pipelined RISK-V/Design Folder/PC.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/Pipelined RISK-V/Design Folder/PC.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} {D:/Digital Electronics/Pipelined RISK-V/Design Folder/Hazardmux.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/Pipelined RISK-V/Design Folder/Hazardmux.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Hazardmux
+
+Top level modules:
+	Hazardmux
+
+} {} {}} {D:/Digital Electronics/Pipelined RISK-V/Design Folder/Control_unitD.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/Pipelined RISK-V/Design Folder/Control_unitD.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Control_unitD
+
+Top level modules:
+	Control_unitD
+
+} {} {}} {D:/Digital Electronics/Pipelined RISK-V/Design Folder/alumux.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/Pipelined RISK-V/Design Folder/alumux.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module alumux
+
+Top level modules:
+	alumux
+
+} {} {}} {D:/Digital Electronics/Pipelined RISK-V/Design Folder/datamem.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/Pipelined RISK-V/Design Folder/datamem.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module datamem
+
+Top level modules:
+	datamem
+
+} {} {}} {D:/Digital Electronics/Pipelined RISK-V/Design Folder/toppipeline.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/Pipelined RISK-V/Design Folder/toppipeline.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module toppipeline
+
+Top level modules:
+	toppipeline
+
+} {} {}} {D:/Digital Electronics/Pipelined RISK-V/Design Folder/Memory.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/Pipelined RISK-V/Design Folder/Memory.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}} {D:/Digital Electronics/Pipelined RISK-V/Design Folder/alu.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/Pipelined RISK-V/Design Folder/alu.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} {D:/Digital Electronics/Pipelined RISK-V/Design Folder/Hazardunit.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/Pipelined RISK-V/Design Folder/Hazardunit.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Hazardunit
+
+Top level modules:
+	Hazardunit
+
+} {} {}} {D:/Digital Electronics/Pipelined RISK-V/Design Folder/PCmuxF.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/Pipelined RISK-V/Design Folder/PCmuxF.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module pcmux
+
+Top level modules:
+	pcmux
+
+} {} {}} {D:/Digital Electronics/Pipelined RISK-V/Design Folder/writeback.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/Pipelined RISK-V/Design Folder/writeback.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module writeback
+
+Top level modules:
+	writeback
+
+} {} {}} {D:/Digital Electronics/Pipelined RISK-V/Design Folder/Decode.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/Pipelined RISK-V/Design Folder/Decode.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Decode
+
+Top level modules:
+	Decode
+
+} {} {}}

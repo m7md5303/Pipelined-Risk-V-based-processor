@@ -1,0 +1,483 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/questasim64_2021.1/examples
+T_opt
+!s110 1724634576
+V=NhS=Nal_7Zj9bZo[hdPD2
+04 11 4 work toppipeline fast 0
+=3-c85b7667dfe0-66cbd5d0-bf-2918
+Z2 !s124 OEM100
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1724633474
+VVm7_1JFCSMQkTFR3bUc6D2
+04 13 4 work RegisterfileD fast 0
+=1-c85b7667dfe0-66cbd181-2f5-11f4
+R2
+R3
+R4
+n@_opt1
+R5
+R1
+T_opt2
+!s110 1724633640
+VEYN1m5SjIcF0g0[S42_?m0
+04 6 4 work Decode fast 0
+=1-c85b7667dfe0-66cbd227-3c3-47d4
+R2
+R3
+R4
+n@_opt2
+R5
+R1
+vAdderE
+Z6 !s110 1724634848
+!i10b 1
+!s100 8QDzK@iWz5;kldB2[MI`g2
+Ii@SFXOFC@k`H6l[HB9hnl1
+Z7 dD:/Digital Electronics/Pipelined RISK-V/Design Folder
+w1723495244
+8D:/Digital Electronics/Pipelined RISK-V/Design Folder/AdderE.v
+FD:/Digital Electronics/Pipelined RISK-V/Design Folder/AdderE.v
+!i122 228
+L0 1 5
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z10 !s108 1724634848.000000
+!s107 D:/Digital Electronics/Pipelined RISK-V/Design Folder/AdderE.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/Pipelined RISK-V/Design Folder/AdderE.v|
+!i113 0
+Z11 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+n@adder@e
+valu
+R6
+!i10b 1
+!s100 e[]n8W6klmBQEFLIjOncb3
+IHn_Ng=gCUz4ZPaRHS[IER2
+R7
+w1723495981
+8D:/Digital Electronics/Pipelined RISK-V/Design Folder/alu.v
+FD:/Digital Electronics/Pipelined RISK-V/Design Folder/alu.v
+!i122 229
+Z12 L0 1 29
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 D:/Digital Electronics/Pipelined RISK-V/Design Folder/alu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/Pipelined RISK-V/Design Folder/alu.v|
+!i113 0
+R11
+R4
+valumux
+R6
+!i10b 1
+!s100 g<HYMo2znI1aUzoSdJa8Y0
+I0Xd1;NYbQcG_nO047:7Km3
+R7
+w1723495075
+8D:/Digital Electronics/Pipelined RISK-V/Design Folder/alumux.v
+FD:/Digital Electronics/Pipelined RISK-V/Design Folder/alumux.v
+!i122 227
+Z13 L0 1 6
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 D:/Digital Electronics/Pipelined RISK-V/Design Folder/alumux.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/Pipelined RISK-V/Design Folder/alumux.v|
+!i113 0
+R11
+R4
+vControl_unitD
+R6
+!i10b 1
+!s100 526F0:`Y]XPg9O?T9nj[@2
+IULiK<Y82Y`@9zQJKhLj5:3
+R7
+w1723332733
+8D:/Digital Electronics/Pipelined RISK-V/Design Folder/Control_unitD.v
+FD:/Digital Electronics/Pipelined RISK-V/Design Folder/Control_unitD.v
+!i122 225
+L0 1 93
+R8
+R9
+r1
+!s85 0
+31
+Z14 !s108 1724634847.000000
+!s107 D:/Digital Electronics/Pipelined RISK-V/Design Folder/Control_unitD.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/Pipelined RISK-V/Design Folder/Control_unitD.v|
+!i113 0
+R11
+R4
+n@control_unit@d
+vdatamem
+Z15 !s110 1724634849
+!i10b 1
+!s100 aVm:LB=znM?FQRJcSHk>:2
+I^0I^K^jBcEn1@_K<m_Uda0
+R7
+w1724634835
+8D:/Digital Electronics/Pipelined RISK-V/Design Folder/datamem.v
+FD:/Digital Electronics/Pipelined RISK-V/Design Folder/datamem.v
+!i122 231
+L0 1 15
+R8
+R9
+r1
+!s85 0
+31
+Z16 !s108 1724634849.000000
+!s107 D:/Digital Electronics/Pipelined RISK-V/Design Folder/datamem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/Pipelined RISK-V/Design Folder/datamem.v|
+!i113 0
+R11
+R4
+vDecode
+R6
+!i10b 1
+!s100 h3=>]DS`FjYR]N6aa3:>P0
+IEjc:emCkDA6fV`BGd0:Fm3
+R7
+w1724630734
+8D:/Digital Electronics/Pipelined RISK-V/Design Folder/Decode.v
+FD:/Digital Electronics/Pipelined RISK-V/Design Folder/Decode.v
+!i122 226
+L0 1 77
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 D:/Digital Electronics/Pipelined RISK-V/Design Folder/Decode.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/Pipelined RISK-V/Design Folder/Decode.v|
+!i113 0
+R11
+R4
+n@decode
+vExecute
+R15
+!i10b 1
+!s100 lAKl:YeW3MkQR?YRd^^Re3
+I:A7^YAL66XHAAnV@PSB5^1
+R7
+w1724632602
+8D:/Digital Electronics/Pipelined RISK-V/Design Folder/Execute.v
+FD:/Digital Electronics/Pipelined RISK-V/Design Folder/Execute.v
+!i122 230
+L0 1 54
+R8
+R9
+r1
+!s85 0
+31
+R16
+!s107 D:/Digital Electronics/Pipelined RISK-V/Design Folder/Execute.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/Pipelined RISK-V/Design Folder/Execute.v|
+!i113 0
+R11
+R4
+n@execute
+vfetch_cycle
+Z17 !s110 1724634846
+!i10b 1
+!s100 :k1jj7`T>TB=V<ei3LKcP2
+I07L7R6DN[4KI1FAnd:;m?1
+R7
+w1723909403
+8D:/Digital Electronics/Pipelined RISK-V/Design Folder/Fetch.v
+FD:/Digital Electronics/Pipelined RISK-V/Design Folder/Fetch.v
+!i122 219
+R12
+R8
+R9
+r1
+!s85 0
+31
+Z18 !s108 1724634846.000000
+!s107 D:/Digital Electronics/Pipelined RISK-V/Design Folder/Fetch.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/Pipelined RISK-V/Design Folder/Fetch.v|
+!i113 0
+R11
+R4
+vHazardmux
+Z19 !s110 1724634850
+!i10b 1
+!s100 nnDUdX]??48fHiJ0CB17k3
+Ig>aG9OA5P@f1BDbo___[51
+R7
+w1724333727
+8D:/Digital Electronics/Pipelined RISK-V/Design Folder/Hazardmux.v
+FD:/Digital Electronics/Pipelined RISK-V/Design Folder/Hazardmux.v
+!i122 236
+Z20 L0 1 7
+R8
+R9
+r1
+!s85 0
+31
+Z21 !s108 1724634850.000000
+!s107 D:/Digital Electronics/Pipelined RISK-V/Design Folder/Hazardmux.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/Pipelined RISK-V/Design Folder/Hazardmux.v|
+!i113 0
+R11
+R4
+n@hazardmux
+vHazardunit
+R19
+!i10b 1
+!s100 9LflXUfj[Fk9Pj@nKz0]G2
+I?o^JMcYGl``=5H>z^1A?a3
+R7
+w1724333058
+8D:/Digital Electronics/Pipelined RISK-V/Design Folder/Hazardunit.v
+FD:/Digital Electronics/Pipelined RISK-V/Design Folder/Hazardunit.v
+!i122 235
+L0 1 50
+R8
+R9
+r1
+!s85 0
+31
+R21
+!s107 D:/Digital Electronics/Pipelined RISK-V/Design Folder/Hazardunit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/Pipelined RISK-V/Design Folder/Hazardunit.v|
+!i113 0
+R11
+R4
+n@hazardunit
+vinstmem
+R17
+!i10b 1
+!s100 Himj?O0g^2>[[@=e@BJMf3
+I=Ojd1X<;G2D^daj5ooI_S0
+R7
+w1723159781
+8D:/Digital Electronics/Pipelined RISK-V/Design Folder/instmemF.v
+FD:/Digital Electronics/Pipelined RISK-V/Design Folder/instmemF.v
+!i122 220
+R20
+R8
+R9
+r1
+!s85 0
+31
+R18
+!s107 D:/Digital Electronics/Pipelined RISK-V/Design Folder/instmemF.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/Pipelined RISK-V/Design Folder/instmemF.v|
+!i113 0
+R11
+R4
+vMemory
+R15
+!i10b 1
+!s100 Fc]`2mO^l^Cf_[n60ZcNV3
+IeALe99nWghT[Q4L_hC:`R1
+R7
+w1723909752
+8D:/Digital Electronics/Pipelined RISK-V/Design Folder/Memory.v
+FD:/Digital Electronics/Pipelined RISK-V/Design Folder/Memory.v
+!i122 232
+L0 1 49
+R8
+R9
+r1
+!s85 0
+31
+R16
+!s107 D:/Digital Electronics/Pipelined RISK-V/Design Folder/Memory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/Pipelined RISK-V/Design Folder/Memory.v|
+!i113 0
+R11
+R4
+n@memory
+vPC
+Z22 !s110 1724634847
+!i10b 1
+!s100 Mmc;GC4J?Kfagk7:X;gcZ0
+I6^U`?JgV>4[kHY9eGUOXo0
+R7
+w1723160124
+8D:/Digital Electronics/Pipelined RISK-V/Design Folder/PC.v
+FD:/Digital Electronics/Pipelined RISK-V/Design Folder/PC.v
+!i122 222
+L0 1 16
+R8
+R9
+r1
+!s85 0
+31
+R14
+!s107 D:/Digital Electronics/Pipelined RISK-V/Design Folder/PC.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/Pipelined RISK-V/Design Folder/PC.v|
+!i113 0
+R11
+R4
+n@p@c
+vpc_adder
+R17
+!i10b 1
+!s100 fHUV>adM>NIX@RMW<Fo0^3
+I>5MofP:`Q52dIJ1?]5bhi2
+R7
+w1723159720
+8D:/Digital Electronics/Pipelined RISK-V/Design Folder/AdderF.v
+FD:/Digital Electronics/Pipelined RISK-V/Design Folder/AdderF.v
+!i122 218
+R13
+R8
+R9
+r1
+!s85 0
+31
+R18
+!s107 D:/Digital Electronics/Pipelined RISK-V/Design Folder/AdderF.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/Pipelined RISK-V/Design Folder/AdderF.v|
+!i113 0
+R11
+R4
+vpcmux
+R22
+!i10b 1
+!s100 UgZ:TYR2jaUG57__HmWOQ0
+Im5ZnKURBD8SNl1@56WgnG2
+R7
+w1723159695
+8D:/Digital Electronics/Pipelined RISK-V/Design Folder/PCmuxF.v
+FD:/Digital Electronics/Pipelined RISK-V/Design Folder/PCmuxF.v
+!i122 221
+R20
+R8
+R9
+r1
+!s85 0
+31
+R14
+!s107 D:/Digital Electronics/Pipelined RISK-V/Design Folder/PCmuxF.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/Pipelined RISK-V/Design Folder/PCmuxF.v|
+!i113 0
+R11
+R4
+vRegisterfileD
+R22
+!i10b 1
+!s100 4mINBN7<Gj7L_UNf?L<]Q2
+IHSlZ_KT^aVgL^BY]:3P;I3
+R7
+w1724634829
+8D:/Digital Electronics/Pipelined RISK-V/Design Folder/RegisterfileD.v
+FD:/Digital Electronics/Pipelined RISK-V/Design Folder/RegisterfileD.v
+!i122 224
+L0 1 20
+R8
+R9
+r1
+!s85 0
+31
+R14
+!s107 D:/Digital Electronics/Pipelined RISK-V/Design Folder/RegisterfileD.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/Pipelined RISK-V/Design Folder/RegisterfileD.v|
+!i113 0
+R11
+R4
+n@registerfile@d
+vsignextD
+R22
+!i10b 1
+!s100 mV6K_^`^<>P6lbQEe3VFe0
+I]Xhl;PgcKfB4_[he45O2B1
+R7
+w1723312217
+8D:/Digital Electronics/Pipelined RISK-V/Design Folder/signextD.v
+FD:/Digital Electronics/Pipelined RISK-V/Design Folder/signextD.v
+!i122 223
+L0 1 12
+R8
+R9
+r1
+!s85 0
+31
+R14
+!s107 D:/Digital Electronics/Pipelined RISK-V/Design Folder/signextD.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/Pipelined RISK-V/Design Folder/signextD.v|
+!i113 0
+R11
+R4
+nsignext@d
+vtoppipeline
+R19
+!i10b 1
+!s100 omicmC:JMe=Y<b<_oLHEU2
+I5Wd_=XX@491EM]dh;_5:g1
+R7
+w1724631635
+8D:/Digital Electronics/Pipelined RISK-V/Design Folder/toppipeline.v
+FD:/Digital Electronics/Pipelined RISK-V/Design Folder/toppipeline.v
+!i122 234
+L0 1 41
+R8
+R9
+r1
+!s85 0
+31
+R21
+!s107 D:/Digital Electronics/Pipelined RISK-V/Design Folder/toppipeline.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/Pipelined RISK-V/Design Folder/toppipeline.v|
+!i113 0
+R11
+R4
+vwriteback
+R15
+!i10b 1
+!s100 AnKgXnPgX5RR=RlnnCX`G1
+IV>32FZa5k79aoQoz2]dz51
+R7
+w1723909258
+8D:/Digital Electronics/Pipelined RISK-V/Design Folder/writeback.v
+FD:/Digital Electronics/Pipelined RISK-V/Design Folder/writeback.v
+!i122 233
+L0 1 9
+R8
+R9
+r1
+!s85 0
+31
+R16
+!s107 D:/Digital Electronics/Pipelined RISK-V/Design Folder/writeback.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/Pipelined RISK-V/Design Folder/writeback.v|
+!i113 0
+R11
+R4
