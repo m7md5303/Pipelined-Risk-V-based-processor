@@ -6,7 +6,7 @@ module fetch_cycle (pcsrcE, clk, rst_n, pctargetE, instrD, pcD,pcincr4D);
     reg [31:0] instrD_reg, pcD_reg, pcincr4D_reg;
     wire [31:0] pc,pcincr4,instrD_temp,pc_F;
     //declaring the modules
-    pc_adder pc_adder_F(.pc_current(pc_F),.inc_value(32'h4),.pc_inc_out(pcincr4));
+    pc_adder pc_adder_F(.pc_current(pc_F),.inc_value(32'h1),.pc_inc_out(pcincr4));
     pcmux pcmux_F ( .sel(pcsrcE),.pc_trgt(pctargetE),.pc_inc4(pcincr4),.pc_out(pc));
     instmem instmem_F(.address(pc),.instruction(instrD_temp));
     PC PC_F(.pc(pc), .clk(clk), .rst_n(rst_n), .pc_F(pc_F));
